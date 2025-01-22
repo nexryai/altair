@@ -16,7 +16,7 @@
 		"@discordapp/twemoji": "15.1.0",
 		"@koa/cors": "5.0.0",
 		"@koa/multer": "3.0.2",
-		"@koa/router": "12.0.1",
+		"@koa/router": "13.1.0",
 		"@peertube/http-signature": "1.7.0",
 		"@sinonjs/fake-timers": "11.2.2",
 		"abort-controller": "3.0.0",
