@@ -16,7 +16,7 @@
 		"@tabler/icons-webfont": "3.27.1",
 		"@vitejs/plugin-vue": "5.2.1",
 		"@vue/compiler-sfc": "3.5.13",
-        "@vue-macros/reactivity-transform": "1.1.4",
+        "@vue-macros/reactivity-transform": "1.1.6",
 		"autobind-decorator": "2.4.0",
 		"autosize": "6.0.1",
 		"blurhash": "2.0.5",
